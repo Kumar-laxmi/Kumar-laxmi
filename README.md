@@ -20,6 +20,8 @@
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 
+- 📫 Email me at <a href="mailto:laxmikantk2002@gmail.com">laxmikantk2002@gmail.com</a>
+
 <p align="left"> <a href="https://twitter.com/kumarlaxmikant2" target="blank"><img src="https://img.shields.io/twitter/follow/kumarlaxmikant2?logo=twitter&style=for-the-badge" alt="kumarlaxmikant2" /></a> </p>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
