@@ -57,7 +57,7 @@
   <tr>
     <td>
       <img src="https://komarev.com/ghpvc/?username=Kumar-laxmi&label=Profile%20views&color=0e75b6&style=flat" alt="Kumar-laxmi" /><br/>
-      [![trophy](https://github-profile-trophy.vercel.app/?username=Kumar-laxmi&theme=onedark)](https://github.com/Kumar-laxmi/github-profile-trophy)
+      [![trophy](https://github-profile-trophy.vercel.app/?username=Kumar-laxmi)](https://github.com/ryo-ma/github-profile-trophy)
 
     </td>
   </tr>
