@@ -56,6 +56,8 @@
   </tr>
 </table>
 
- <center><h3 style="color:purple;">Visitors: <img src="https://profile-counter.glitch.me/Kumar-laxmi/count.svg"></h3></center>
+ <h2> My GitHub Stats  </h2>                                                                                                                      
+ <table>
+ <tr><td><img src="https://profile-counter.glitch.me/Kumar-laxmi/count.svg"></td></tr>                                                                                               </table>                 
 
 
