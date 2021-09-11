@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="WELCOME" height="30">
+ <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="WELCOME" height="30" width="250">
 
 <h1 align="center"">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Kumar Laxmikant</h1>
 <h3 align="center">
