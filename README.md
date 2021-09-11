@@ -56,8 +56,12 @@
   </tr>
 </table>
 
- <h2> My GitHub Stats  </h2>                                                                                                                      
+ <h2> Thank you for visiting my profile </h2>                                                                                                                      
  <table>
- <tr><td><img src="https://profile-counter.glitch.me/Kumar-laxmi/count.svg"></td></tr>                                                                                               </table>                 
+        <tr>
+             <td><h3> Visitors: </h3></td>
+             <td><img src="https://profile-counter.glitch.me/Kumar-laxmi/count.svg"></td>                                   
+        </tr>                                                                                             
+ </table>                 
 
 
