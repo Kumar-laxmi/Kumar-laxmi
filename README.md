@@ -1,11 +1,10 @@
-<h1 align="center"">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Kumar Laxmikant</h1>
 <h3 align="center">
                   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=8203B3&lines=Computer+Science+Student;iOS+App+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Web%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
                   </p>
 </h3>
 
-<h2> About Me </h2> 
+<h2> About Kumar Laxmikant </h2> 
 
 <img width="55%" align="right" alt="Github" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" />
 
