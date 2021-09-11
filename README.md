@@ -74,8 +74,4 @@
              <td><img src="https://profile-counter.glitch.me/Kumar-laxmi/count.svg"></td>                                                                     
         </tr>                                                                                             
  </table>
- <table>
-        <tr>
-              <td><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"></td>                                                                     
-         </tr>
- </table>
+
