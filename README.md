@@ -1,6 +1,4 @@
-<div align="center">
-![Hey there, I'm Kumar Laxmikant. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/Kumar-laxmi/Kumar-laxmi/raw/master/bio.gif)
-</div>
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <h1 align="center"">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Kumar Laxmikant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
