@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+![Hey there, I'm Kumar Laxmikant. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/Kumar-laxmi/Kumar-laxmi/raw/master/bio.gif)
 </div>
 
 <h1 align="center"">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Kumar Laxmikant</h1>
