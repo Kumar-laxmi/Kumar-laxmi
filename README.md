@@ -54,7 +54,9 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Kumar-laxmi&theme=midnight-purple&hide_border=true" />
     </td>                           
   </tr>
-  <tr>
+</table>
+<table>
+    <tr>
           <td>
          <a href="https://github.com/Kumar-laxmi"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kumar-laxmi&bg_color=000000&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>                                                                                      
      </td>
