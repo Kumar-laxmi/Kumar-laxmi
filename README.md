@@ -71,7 +71,8 @@
  <table>
         <tr>
              <td><h3> Visitors: </h3></td>
-             <td><img src="https://profile-counter.glitch.me/Kumar-laxmi/count.svg"></td>                                   
+             <td><img src="https://profile-counter.glitch.me/Kumar-laxmi/count.svg"></td>
+              <td><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"></td>                                                                     
         </tr>                                                                                             
  </table>                 
 
