@@ -56,7 +56,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://komarev.com/ghpvc/?username=Kumar-laxmi&label=Profile%20views&color=0e75b6&style=flat" alt="Kumar-laxmi" /> 
+      <img src="https://komarev.com/ghpvc/?username=Kumar-laxmi&label=Profile%20views&color=0e75b6&style=flat" alt="Kumar-laxmi" /><br/>
       <a href="https://github-profile-trophy.vercel.app/?username=Kumar-laxmi&no-bg=true"><img src="https://github-profile-trophy.vercel.app/?username=Kumar-laxmi" alt="Kumar-laxmi" /></a>
     </td>
   </tr>
