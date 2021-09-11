@@ -12,6 +12,8 @@
 
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at Amrita Vishwapeetham, Chennai Campus
 
+- ✨ I’m a member at @cognizance, a student club at Amrita School of Engineering Chennai
+
 - 🔭 I’m currently working on Public Transport Tracker
 
 - 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms.
