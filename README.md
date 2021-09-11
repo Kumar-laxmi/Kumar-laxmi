@@ -48,11 +48,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kumar-laxmi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Kumar-laxmi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple"   />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Kumar-laxmi&theme=midnight-purple&hide_border=true" />
     </td>
+    <td>
+         <a href="https://github.com/Kumar-laxmi"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kumar-laxmi&bg_color=000000&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>                                                                                      </td>                           
   </tr>
 </table>
 
