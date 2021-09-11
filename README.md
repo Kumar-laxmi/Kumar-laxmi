@@ -62,5 +62,5 @@
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kumar-laxmi&theme=midnight-purple)](https://github.com/Kumar-laxmi/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical
 
