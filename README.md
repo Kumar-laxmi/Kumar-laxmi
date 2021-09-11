@@ -5,8 +5,6 @@
 <h1 align="center"">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Kumar Laxmikant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Kumar-laxmi.Kumar-laxmi)
-
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2> 
 
 <img width="55%" align="right" alt="Github" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" />
@@ -58,6 +56,6 @@
   </tr>
 </table>
 
-
+ <center><h3 style="color:purple;">Visitors: <img src="https://profile-counter.glitch.me/Kumar-laxmi/count.svg"></h3></center>
 
 
