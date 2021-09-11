@@ -56,9 +56,6 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Kumar-laxmi&theme=midnight-purple&hide_border=true" />
     </td>
   </tr>
-  <tr>
-       <td><center><img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-laxmi&count_private=true&theme=midnight-purple" alt="Kumar-laxmi" /></center></td>
-   </tr>
 </table>
 
 
