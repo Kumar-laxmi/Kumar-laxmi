@@ -58,7 +58,7 @@
 <table>
     <tr>
           <td>
-         <a href="https://github.com/Kumar-laxmi"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kumar-laxmi&bg_color=000000&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>                                                                                      
+         <a href="https://github.com/Kumar-laxmi"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kumar-laxmi&bg_color=000000&color=F8D866&line=7e04af&point=FFFFFF&hide_border=true" /></a>                                                                                      
      </td>
    </tr>
 </table>
