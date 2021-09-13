@@ -47,15 +47,6 @@
      </td>
    </tr>
 </table>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-          <img src="https://github.com/Kumar-laxmi/Kumar-laxmi/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-      </p>
-     </td>
-    </tr>
-</table>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
