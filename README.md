@@ -1,6 +1,6 @@
 <h3 align="center">
                   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=8203B3&lines=This+is+Kumar+Laxmikant;Computer+Science+Student;iOS+App+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Web%20Developer;Always%20learning%20new%20things&center=true&width=500&height=100"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=8203B3&lines=Hi+this+is+Kumar+Laxmikant;Computer+Science+Student;iOS+App+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Web%20Developer;Always%20learning%20new%20things&center=true&width=500&height=100"></a>
                   </p>
 </h3>
 
