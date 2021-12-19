@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms.
 
-- 🤔 My interest lies in front end web development.
+- 🤔 My interest lies in Web development & App development.
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
