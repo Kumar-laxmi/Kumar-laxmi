@@ -36,7 +36,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Kumar-laxmi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple"   />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Kumar-laxmi&theme=midnight-purple&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Kumar-laxmi&theme=algolia&hide_border=true" />
     </td>                           
   </tr>
 </table>
