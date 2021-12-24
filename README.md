@@ -43,7 +43,7 @@
 <table>
     <tr>
       <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=Kumar-laxmi&theme=chartreuse-dark&column=4&hide_border=true" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Kumar-laxmi&theme=algolia&column=4&hide_border=true" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-laxmi&layout=compact&theme=algolia&hide_border=true" />
