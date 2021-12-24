@@ -43,7 +43,7 @@
 <table>
     <tr>
       <td>
-        [![trophy](https://github-profile-trophy.vercel.app/?username=Kumar-laxmi&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) 
+        <img src="https://github-profile-trophy.vercel.app/?username=Kumar-laxmi&theme=algolia" />
       </td>
   </tr>
 </table>
