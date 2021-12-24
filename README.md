@@ -43,7 +43,7 @@
 <table>
     <tr>
           <td>
-         <a href="https://github.com/Kumar-laxmi"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kumar-laxmi&bg_color=000000&color=7e04af&line=7e04af&point=FFFFFF&hide_border=true" /></a>                                                                                      
+         <a href="https://github.com/Kumar-laxmi"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kumar-laxmi&theme=midnight-purple" /></a>                                                                                      
      </td>
    </tr>
 </table>
