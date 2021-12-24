@@ -42,10 +42,10 @@
 </table>
 <table>
     <tr>
-          <td>
-                  [![trophy](https://github-profile-trophy.vercel.app/?username=Kumar-laxmi&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)                                  
-          </td>
-   </tr>
+      <td>
+        [![trophy](https://github-profile-trophy.vercel.app/?username=Kumar-laxmi&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) 
+      </td>
+  </tr>
 </table>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
