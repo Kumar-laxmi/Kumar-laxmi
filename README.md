@@ -33,17 +33,17 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kumar-laxmi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia&no-bg=true"   />
+      <img src="https://github-readme-stats.vercel.app/api?username=Kumar-laxmi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"   />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Kumar-laxmi&theme=algolia&hide_border=true&no-bg=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Kumar-laxmi&theme=algolia&hide_border=true" />
     </td>                           
   </tr>
 </table>
 <table>
     <tr>
       <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=Kumar-laxmi&theme=algolia&column=3&no-bg=true" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Kumar-laxmi&theme=algolia&column=3" />
       </td>
   </tr>
 </table>
