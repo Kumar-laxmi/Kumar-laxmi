@@ -43,8 +43,8 @@
 <table>
     <tr>
           <td>
-         <a href="https://github.com/Kumar-laxmi"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kumar-laxmi&theme=midnight-purple" /></a>                                                                                      
-     </td>
+         [![Kumar's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kumar-laxmi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)                                                                          
+          </td>
    </tr>
 </table>
 
