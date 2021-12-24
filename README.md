@@ -46,7 +46,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=Kumar-laxmi&theme=algolia&column=4" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-laxmi&layout=compact&theme=algolia" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-laxmi&layout=compact&theme=midnight-purple" />
       </td>
   </tr>
 </table>
