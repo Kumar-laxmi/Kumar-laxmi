@@ -50,12 +50,13 @@
       </td>
   </tr>
 </table>
+<table>
   <tr>
     <td>
       <img src="https://activity-graph.herokuapp.com/graph?username=Kumar-laxmi&theme=algolia" />
     </td>
   </tr>
-<table>
+</table>
   
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
