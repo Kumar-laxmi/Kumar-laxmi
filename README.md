@@ -39,6 +39,8 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Kumar-laxmi&theme=algolia&hide_border=true" />
     </td>                           
   </tr>
+</table>
+<table>
   <tr>
       <td>
         <img src="https://github-profile-trophy.vercel.app/?username=Kumar-laxmi&theme=algolia&column=4&hide_border=true" />
@@ -47,12 +49,14 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-laxmi&layout=compact&theme=algolia&hide_border=true" />
       </td>
   </tr>
+</table>
   <tr>
     <td>
       <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula" />
     </td>
   </tr>
-</table>
+<table>
+  
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
