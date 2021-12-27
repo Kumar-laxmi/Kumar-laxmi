@@ -53,7 +53,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=Kumar-laxmi&theme=algolia&hide-border=true" />
+      <img src="https://activity-graph.herokuapp.com/graph?username=Kumar-laxmi&theme=midnight-purple&hide-border=true" />
     </td>
   </tr>
 </table>
