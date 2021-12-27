@@ -40,6 +40,15 @@
     </td>                           
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://activity-graph.herokuapp.com/graph?username=Kumar-laxmi&theme=react-dark&hide-border=true" />
+    </td>
+  </tr>
+</table>
+
 <table>
   <tr>
       <td>
@@ -48,13 +57,6 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-laxmi&layout=compact&theme=algolia&hide_border=true" />
       </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=Kumar-laxmi&theme=react-dark&hide-border=true" />
-    </td>
   </tr>
 </table>
   
