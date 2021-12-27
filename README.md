@@ -39,15 +39,18 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Kumar-laxmi&theme=algolia&hide_border=true" />
     </td>                           
   </tr>
-</table>
-<table>
-    <tr>
+  <tr>
       <td>
         <img src="https://github-profile-trophy.vercel.app/?username=Kumar-laxmi&theme=algolia&column=4&hide_border=true" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-laxmi&layout=compact&theme=algolia&hide_border=true" />
       </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula" />
+    </td>
   </tr>
 </table>
 
