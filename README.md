@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on Public Transport Tracker
 
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms.
+- 🌱 I’m currently exploring Machine Learning and Computer Vision using Python.
 
 - 🤔 My interest lies in Web development & App development.
 
