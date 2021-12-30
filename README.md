@@ -55,9 +55,16 @@
     </td>
   </tr>
 </table>
- 
- 
 
+<table>
+  <tr>
+    <td>
+      <img src="https://metrics.lecoq.io/Kumar-laxmi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" />
+    </td>
+  </tr>
+</table>
+ 
+ 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://twitter.com/kumarlaxmikant2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumarlaxmikant2" height="30" width="40" /></a>
