@@ -1,10 +1,4 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://metrics.lecoq.io/Kumar-laxmi?template=classic&config.timezone=Asia%2FCalcutta" />
-    </td>
-  </tr>
-</table>
+![Metrics](https://metrics.lecoq.io/Kumar-laxmi?template=classic&config.timezone=Asia%2FCalcutta)
  
 <h2> About Kumar Laxmikant </h2> 
 
