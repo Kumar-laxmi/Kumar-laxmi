@@ -38,7 +38,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=Kumar-laxmi&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img src="https://activity-graph.herokuapp.com/graph?username=Kumar-laxmi&theme=react-dark&hide_border=true" />
     </td>
   </tr>
 </table>
