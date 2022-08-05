@@ -5,7 +5,7 @@
 
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at Amrita Vishwapeetham, Chennai Campus
 
-- ✨ I’m a member at @cognizance, a student club at Amrita School of Engineering Chennai
+- ✨ I’m a member at @cognizance and mentor at @AMC-FOSS, student clubs at Amrita School of Engineering Chennai
 
 - 🔭 I’m currently working on Public Transport Tracker
 
