@@ -7,11 +7,11 @@
 
 - ✨ I’m a member at @cognizance and mentor at @AMC-FOSS, student clubs at Amrita School of Engineering Chennai
 
-- 🔭 I’m currently working on Public Transport Tracker
+- 🔭 I’m currently working on Smart Agriculture System
 
 - 🌱 I’m currently exploring Machine Learning and Computer Vision using Python.
 
-- 🤔 My interest lies in Web development & App development.
+- 🤔 My interest lies in Machine Learning & Deep Learning.
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
