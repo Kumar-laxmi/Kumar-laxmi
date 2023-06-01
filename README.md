@@ -38,14 +38,6 @@
 <table>
   <tr>
     <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=Kumar-laxmi&theme=react-dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumar-laxmi&theme=react-dark&hide_border=true" />
     </td>
   </tr>
