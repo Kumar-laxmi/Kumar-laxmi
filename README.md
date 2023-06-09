@@ -43,8 +43,16 @@
   </tr>
 </table>
 
-[![Kumar-laxmi's GitHub | Stats](https://stats.quine.sh/Kumar-laxmi/github?theme=dark)](https://quine.sh)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://stats.quine.sh/Kumar-laxmi/github?theme=dark">
+    </td>
+    <td>
+      <img src="https://stats.quine.sh/Kumar-laxmi/languages-over-time?theme=dark">
+    </td>
+  </tr>
+</table>
  
  
 <h2> Connect with me </h2>
