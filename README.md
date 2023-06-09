@@ -53,8 +53,6 @@
     </td>
   </tr>
 </table>
-
-[![Kumar-laxmi's GitHub | Languages Over Time](https://stats.quine.sh/Kumar-laxmi/languages-over-time?theme=dark)](https://quine.sh)
  
  
 <h2> Connect with me </h2>
