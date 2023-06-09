@@ -43,6 +43,10 @@
   </tr>
 </table>
 
+<table>
+  [![Kumar-laxmi's GitHub | Stats](https://stats.quine.sh/Kumar-laxmi/github?theme=dark)](https://quine.sh)
+</table>
+
  
  
 <h2> Connect with me </h2>
