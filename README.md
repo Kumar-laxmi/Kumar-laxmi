@@ -43,9 +43,7 @@
   </tr>
 </table>
 
-<table>
-  [![Kumar-laxmi's GitHub | Stats](https://stats.quine.sh/Kumar-laxmi/github?theme=dark)](https://quine.sh)
-</table>
+[![Kumar-laxmi's GitHub | Stats](https://stats.quine.sh/Kumar-laxmi/github?theme=dark)](https://quine.sh)
 
  
  
