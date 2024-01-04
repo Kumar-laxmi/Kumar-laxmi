@@ -46,6 +46,17 @@
 <table>
   <tr>
     <td>
+      <img src="https://stats.quine.sh/Kumar-laxmi/dependencies?theme=dark">
+    </td>
+    <td>
+      <img src="https://stats.quine.sh/Kumar-laxmi/topics-over-time?theme=dark">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
       <img src="https://stats.quine.sh/Kumar-laxmi/github?theme=dark">
     </td>
     <td>
