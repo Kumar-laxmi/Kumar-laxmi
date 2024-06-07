@@ -1,3 +1,5 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
+
 <h2> About Kumar Laxmikant </h2> 
 
 <img width="55%" align="right" alt="Github" src="https://github.com/Kumar-laxmi/Kumar-laxmi/blob/main/Animations/typing_animation.gif?raw=true" />
