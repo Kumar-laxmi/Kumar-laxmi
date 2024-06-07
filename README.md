@@ -2,21 +2,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://github.com/Kumar-laxmi/Kumar-laxmi/blob/main/Animations/typing_animation.gif?raw=true" />
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at Amrita Vishwapeetham, Chennai Campus
+- 👋 Hi there! I'm a tech enthusiast with a Bachelor of Technology (B.Tech) in Computer Science from Amrita Vishwa Vidyapeetham. I'm passionate about leveraging technology to innovate and tackle complex challenges.
+- 🎓 Currently, I'm taking on a new academic adventure as an upcoming Master in Management (MiM) - Grande Ecole student at ESSEC Business School. I'm excited to dive into the dynamic intersection of technology and business.
+- 🚀 I love contributing my skills and knowledge to drive positive change in the world. Whether it's through coding, collaboration, or innovative projects, I'm always eager to explore new opportunities.
+- 🌍 Let's connect and collaborate on GitHub! Together, we can build amazing things and make a difference.
 
-- ✨ I’m a member at @cognizance and mentor at @AMC-FOSS, student clubs at Amrita School of Engineering Chennai
-
-- 🔭 I’m currently working on Smart Agriculture System
-
-- 🌱 I’m currently exploring Machine Learning and Computer Vision using Python.
-
-- 🤔 My interest lies in Machine Learning & Deep Learning.
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
-
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
-
-- 📫 Email me at <a href="mailto:laxmikantk2002@gmail.com">laxmikantk2002@gmail.com</a>
 
 <p align="left"> <a href="https://twitter.com/kumarlaxmikant2" target="blank"><img src="https://img.shields.io/twitter/follow/kumarlaxmikant2?logo=twitter&style=for-the-badge" alt="kumarlaxmikant2" /></a> </p>
 
