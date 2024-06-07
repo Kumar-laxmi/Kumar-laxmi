@@ -1,7 +1,6 @@
 <h2> About Kumar Laxmikant </h2> 
 
 <img width="55%" align="right" alt="Github" src="https://github.com/Kumar-laxmi/Kumar-laxmi/blob/main/Animations/typing_animation.gif?raw=true" />
-# https://github.com/Kumar-laxmi/Kumar-laxmi/blob/main/Animations/typing_animation.gif
 
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at Amrita Vishwapeetham, Chennai Campus
 
